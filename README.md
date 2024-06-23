@@ -2,28 +2,28 @@
 
 ## BACKEND
 
-- install dependencies
+- install dependencies /
 - setup routes
-    - authRoute
+    - authRoute /
     - messageRoute
-- setup monogdb
-- create models
-    - user
-    - message
-    - conversation
-- setup controllers
-    - signup
-    - login
-    - logout
+- setup monogdb /
+- create models /
+    - user /
+    - message /
+    - conversation /
+- setup controllers 
+    - signup /
+    - login /
+    - logout /
     - getMessages
     - getUsers
-- use jwt
+- use jwt /
 - create protctRoute middleware
 - implement socket.io
 
 ## FRONTEND
 
-- install dependencies
+- install dependencies /
 - design the basic ui
     - loginPage
     - signupPage
