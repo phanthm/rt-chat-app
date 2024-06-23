@@ -24,16 +24,15 @@
 ## FRONTEND
 
 - install dependencies /
-- design the basic ui
-    - loginPage
-    - signupPage
-    - signinPage
-    - sidebar
-    - messages
+- design the basic ui /
+    - loginPage /
+    - signupPage /
+    - sidebar /
+    - messages /
 - search user functionality
 - create authContext
 - hooks
-    - signup
+    - signup /
     - login
     - logout
     - sendMessage
