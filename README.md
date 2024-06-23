@@ -19,7 +19,7 @@
     - getUsers /
 - use jwt /
 - create protctRoute middleware /
-- implement socket.io
+- implement socket.io /
 
 ## FRONTEND
 
@@ -29,15 +29,15 @@
     - signupPage /
     - sidebar /
     - messages /
-- search user functionality
-- create authContext
-- hooks
+- search user functionality /
+- create authContext /
+- hooks /
     - signup /
-    - login
-    - logout
-    - sendMessage
-    - getMessage
-- implement socket.io-client
+    - login /
+    - logout /
+    - sendMessage /
+    - getMessage /
+- implement socket.io-client /
 
 
 ## DEPLOY
