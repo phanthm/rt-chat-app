@@ -5,7 +5,7 @@
 - install dependencies /
 - setup routes
     - authRoute /
-    - messageRoute
+    - messageRoute /
 - setup monogdb /
 - create models /
     - user /
@@ -15,7 +15,7 @@
     - signup /
     - login /
     - logout /
-    - getMessages
+    - getMessages /
     - getUsers
 - use jwt /
 - create protctRoute middleware
