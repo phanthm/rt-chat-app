@@ -16,9 +16,9 @@
     - login /
     - logout /
     - getMessages /
-    - getUsers
+    - getUsers /
 - use jwt /
-- create protctRoute middleware
+- create protctRoute middleware /
 - implement socket.io
 
 ## FRONTEND
